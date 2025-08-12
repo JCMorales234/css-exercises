@@ -1,0 +1,13 @@
+.firstel{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.secondel{
+    background-color: yellow;
+}
+
+.bothel{
+    font-size: 29px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}

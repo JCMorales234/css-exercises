@@ -1,0 +1,19 @@
+.class1 {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+
+.class2{
+    font-size: 24px;
+}
+
+#number3 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
